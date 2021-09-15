@@ -1,5 +1,5 @@
 # Welcome!
-This is where all of my projects will be hosted because it is easier to use and it looks better. All group and individual projects will be displayed in the table of contents for all of my Grade 10 classes.
+Welcome to my Homework Database for Grade 10. This is where all of my homework will be placed for the Grade 10 school year.
 ## Table of Content
-- Semester One
+- Semester One (coming soon)
 - Semester Two (coming in january)
